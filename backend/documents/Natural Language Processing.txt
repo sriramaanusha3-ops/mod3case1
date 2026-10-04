@@ -1,0 +1,6 @@
+--- Page 1 ---
+Natural Language Processing (NLP) is an interdisciplinary subfield of linguistics, computer science, and artificial intelligence concerned with interactions between computers and human natural language.
+--- Page 2 ---
+Foundational text processing steps include tokenization (splitting text into subwords/words), normalization (lowercasing, punctuation stripping), stopword filtering, and stem/lemmatization. Text representations evolved from sparse vector space models (Bag of Words, Term Frequency-Inverse Document Frequency / TF-IDF) to dense distributed continuous semantic vector embeddings (Word2Vec, GloVe, FastText).
+--- Page 3 ---
+Retrieval-Augmented Generation (RAG) is an architectural framework that enhances Large Language Models by dynamically retrieving relevant verified passages from external private knowledge bases. RAG breaks down text into semantic chunks, generates vector embeddings with encoder models, performs cosine similarity searches against vector databases, and injects the retrieved context directly into the LLM inference prompt to eliminate hallucinations and supply source-grounded citations.

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Midnight Intelligence Palette -->
+    <color name="bg_dark">#060914</color>
+    <color name="surface_dark">#0D1322</color>
+    <color name="surface_elevated">#141C2F</color>
+    <color name="card_bg">#111827</color>
+    
+    <!-- Accent Colors -->
+    <color name="primary_purple">#8B5CF6</color>
+    <color name="bright_purple">#A855F7</color>
+    <color name="cyan_accent">#22D3EE</color>
+    <color name="cyan_dark">#06B6D4</color>
+    <color name="blue_accent">#3B82F6</color>
+    <color name="green_status">#34D399</color>
+    <color name="yellow_status">#FBBF24</color>
+    <color name="red_status">#F87171</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+    
+    <!-- Borders and Overlays -->
+    <color name="border_subtle">#263244</color>
+    <color name="border_active">#8B5CF6</color>
+    <color name="border_cyan">#22D3EE</color>
+    <color name="glow_purple">#408B5CF6</color>
+    <color name="glow_cyan">#4022D3EE</color>
+    <color name="glass_card_bg">#E6111827</color>
+    <color name="glass_card_stroke">#338B5CF6</color>
+    
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

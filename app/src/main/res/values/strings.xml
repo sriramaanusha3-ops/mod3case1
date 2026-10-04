@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mod3case1</string>
+    <string name="app_subtitle">AI Document Assistant</string>
+    <string name="rag_engine_online">● RAG ENGINE ONLINE</string>
+    <string name="rag_engine_offline">○ BACKEND OFFLINE</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_ask">Ask</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Home -->
+    <string name="hero_title">Ask your documents.\nGet grounded answers.</string>
+    <string name="hero_subtitle">Upload your documents and ask questions. mod3case1 finds relevant knowledge and generates answers using document context.</string>
+    <string name="stats_documents">Documents</string>
+    <string name="stats_chunks">Indexed Chunks</string>
+    <string name="stats_queries">Questions Asked</string>
+    <string name="recent_documents_title">RECENT DOCUMENTS</string>
+    <string name="view_all">View All</string>
+    <string name="quick_ask_title">QUICK ASK</string>
+    <string name="how_rag_works_btn">How RAG Works →</string>
+    
+    <!-- Documents -->
+    <string name="knowledge_base_title">KNOWLEDGE BASE</string>
+    <string name="knowledge_base_subtitle">Add PDFs or text files to build your retrieval corpus.</string>
+    <string name="add_document_btn">＋ ADD DOCUMENT</string>
+    <string name="sample_docs_btn">📥 LOAD SAMPLE KNOWLEDGE BASE</string>
+    <string name="empty_documents_title">YOUR KNOWLEDGE BASE IS EMPTY</string>
+    <string name="empty_documents_desc">Upload a PDF or document to start asking questions with semantic retrieval.</string>
+    
+    <!-- Chat -->
+    <string name="document_chat_title">DOCUMENT CHAT</string>
+    <string name="document_chat_subtitle">Ask questions about your knowledge base</string>
+    <string name="scope_all">All Documents</string>
+    <string name="ask_placeholder">Ask something about your documents...</string>
+    <string name="suggested_title">TRY ASKING</string>
+    <string name="suggested_1">What is supervised learning?</string>
+    <string name="suggested_2">Summarize the key findings and methodology.</string>
+    <string name="suggested_3">What are the main neural network architectures?</string>
+    <string name="suggested_4">Explain cloud computing deployment models.</string>
+    <string name="suggested_5">What conclusions are presented across the notes?</string>
+    <string name="no_answer_msg">I couldn\'t find enough information in the provided documents to answer this question.\n\nTry asking about a topic that appears in your uploaded documents.</string>
+    
+    <!-- History & Settings -->
+    <string name="history_title">CHAT HISTORY</string>
+    <string name="history_empty">No conversation history yet. Start asking questions in the Ask tab!</string>
+    <string name="settings_title">SYSTEM CONFIGURATION</string>
+    <string name="how_it_works_title">RAG PIPELINE ARCHITECTURE</string>
+</resources>

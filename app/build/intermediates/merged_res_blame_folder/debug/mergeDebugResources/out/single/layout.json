@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\item_document.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\item_document.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\activity_source_detail.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\activity_source_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\item_history.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\item_source_chip.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\item_source_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\item_chat_user.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\item_chat_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\item_chunk.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\item_chunk.xml"
+    },
+    {
+        "merged": "com.example.mod3case1.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.mod3case1.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\activity_document_detail.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\activity_document_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\fragment_documents.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\fragment_documents.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\item_chat_ai.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\item_chat_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-mergeDebugResources-3:\\layout\\activity_how_it_works.xml",
+        "source": "C:\\Users\\srira\\.gradle\\daemon\\8.14\\com.example.mod3case1.app-main-6:\\layout\\activity_how_it_works.xml"
+    }
+]

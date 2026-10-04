@@ -1,0 +1,13 @@
+--- Page 1 ---
+Cloud Computing is the delivery of on-demand computing services—including compute power, storage repositories, databases, networking, software, and analytics—over the internet with pay-as-you-go pricing models.
+--- Page 2 ---
+The three principal cloud service models are:
+1. Infrastructure as a Service (IaaS): Provides virtualized computing infrastructure such as virtual machines, elastic block storage, and software-defined networks (e.g., AWS EC2, Google Compute Engine).
+2. Platform as a Service (PaaS): Delivers hardware and software development frameworks allowing developers to build, test, and deploy applications without managing underlying infrastructure (e.g., Google App Engine, AWS Elastic Beanstalk).
+3. Software as a Service (SaaS): Delivers fully managed, ready-to-use software applications accessed via web browsers (e.g., Google Workspace, Salesforce).
+--- Page 3 ---
+Cloud Deployment Models include:
+• Public Cloud: Infrastructure owned and operated by third-party cloud providers and shared across multiple tenants.
+• Private Cloud: Infrastructure provisioned for exclusive use by a single organization.
+• Hybrid Cloud: Combines public and private infrastructures with data and application portability.
+• Multi-cloud: Leveraging multiple cloud service providers to minimize vendor lock-in and optimize latency.

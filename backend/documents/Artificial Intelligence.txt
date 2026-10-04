@@ -1,0 +1,6 @@
+--- Page 1 ---
+Artificial Intelligence (AI) is a multidisciplinary domain of computer science dedicated to creating computational systems capable of performing cognitive tasks historically requiring human intelligence. Key historical milestones include Alan Turing's 1950 proposal of the Turing Test, the 1956 Dartmouth Summer Research Project on Artificial Intelligence where the term 'Artificial Intelligence' was coined by John McCarthy, and the emergence of knowledge-based expert systems during the 1970s and 1980s.
+--- Page 2 ---
+Modern AI systems are broadly classified into Narrow AI (Weak AI), which is engineered and trained for a specific discrete task like facial recognition, internet search, or chess; and General AI (Strong AI / AGI), which refers to theoretical systems possessing human-level cognitive capabilities across diverse problem spaces.
+--- Page 3 ---
+Core methodologies within AI include heuristic search algorithms (A* search, minimax, alpha-beta pruning), automated reasoning, constraint satisfaction problems (CSPs), probabilistic graphical models (Bayesian networks), and machine learning pipelines that extrapolate patterns from high-dimensional observational data.

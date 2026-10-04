@@ -1,0 +1,11 @@
+--- Page 1 ---
+Artificial Neural Networks (ANNs) are biologically inspired computational models structured in hierarchical layers of interconnected processing units called neurons. A basic feedforward network comprises an input layer, one or more hidden layers, and an output layer.
+--- Page 2 ---
+Each artificial neuron computes a weighted sum of its inputs, adds a learnable bias term, and passes the result through a non-linear activation function (such as Sigmoid, Tanh, ReLU, or GELU). Non-linear activations enable neural networks to approximate arbitrary continuous mathematical functions, formalizing the Universal Approximation Theorem.
+--- Page 3 ---
+Network parameters (weights and biases) are iteratively optimized using the Backpropagation algorithm, which calculates the partial derivative (gradient) of the loss function with respect to each weight using the mathematical chain rule of calculus.
+--- Page 4 ---
+Specialized Deep Learning Architectures:
+• Convolutional Neural Networks (CNNs): Utilize learnable convolution filters and pooling layers to extract translation-invariant spatial features from grid data like images.
+• Recurrent Neural Networks (RNNs) & LSTMs: Process sequential data with internal hidden states to capture temporal dependencies.
+• Transformer Architectures: Replace recurrent recurrence with multi-head self-attention mechanisms, enabling massive parallelization and state-of-the-art representation learning for large language models.

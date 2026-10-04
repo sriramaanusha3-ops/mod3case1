@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="bg_dark">#060914</color>
+    <color name="black">#000000</color>
+    <color name="blue_accent">#3B82F6</color>
+    <color name="border_active">#8B5CF6</color>
+    <color name="border_cyan">#22D3EE</color>
+    <color name="border_subtle">#263244</color>
+    <color name="bright_purple">#A855F7</color>
+    <color name="card_bg">#111827</color>
+    <color name="cyan_accent">#22D3EE</color>
+    <color name="cyan_dark">#06B6D4</color>
+    <color name="glass_card_bg">#E6111827</color>
+    <color name="glass_card_stroke">#338B5CF6</color>
+    <color name="glow_cyan">#4022D3EE</color>
+    <color name="glow_purple">#408B5CF6</color>
+    <color name="green_status">#34D399</color>
+    <color name="primary_purple">#8B5CF6</color>
+    <color name="red_status">#F87171</color>
+    <color name="surface_dark">#0D1322</color>
+    <color name="surface_elevated">#141C2F</color>
+    <color name="text_muted">#64748B</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow_status">#FBBF24</color>
+    <dimen name="button_corner_radius">12dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="chip_corner_radius">20dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_xxs">2dp</dimen>
+    <dimen name="text_size_hero">28sp</dimen>
+    <dimen name="text_size_lg">18sp</dimen>
+    <dimen name="text_size_md">15sp</dimen>
+    <dimen name="text_size_sm">13sp</dimen>
+    <dimen name="text_size_xl">22sp</dimen>
+    <dimen name="text_size_xs">11sp</dimen>
+    <string name="add_document_btn">＋ ADD DOCUMENT</string>
+    <string name="app_name">mod3case1</string>
+    <string name="app_subtitle">AI Document Assistant</string>
+    <string name="ask_placeholder">Ask something about your documents...</string>
+    <string name="document_chat_subtitle">Ask questions about your knowledge base</string>
+    <string name="document_chat_title">DOCUMENT CHAT</string>
+    <string name="empty_documents_desc">Upload a PDF or document to start asking questions with semantic retrieval.</string>
+    <string name="empty_documents_title">YOUR KNOWLEDGE BASE IS EMPTY</string>
+    <string name="hero_subtitle">Upload your documents and ask questions. mod3case1 finds relevant knowledge and generates answers using document context.</string>
+    <string name="hero_title">Ask your documents.\nGet grounded answers.</string>
+    <string name="history_empty">No conversation history yet. Start asking questions in the Ask tab!</string>
+    <string name="history_title">CHAT HISTORY</string>
+    <string name="how_it_works_title">RAG PIPELINE ARCHITECTURE</string>
+    <string name="how_rag_works_btn">How RAG Works →</string>
+    <string name="knowledge_base_subtitle">Add PDFs or text files to build your retrieval corpus.</string>
+    <string name="knowledge_base_title">KNOWLEDGE BASE</string>
+    <string name="nav_ask">Ask</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_history">History</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_settings">Settings</string>
+    <string name="no_answer_msg">I couldn\'t find enough information in the provided documents to answer this question.\n\nTry asking about a topic that appears in your uploaded documents.</string>
+    <string name="quick_ask_title">QUICK ASK</string>
+    <string name="rag_engine_offline">○ BACKEND OFFLINE</string>
+    <string name="rag_engine_online">● RAG ENGINE ONLINE</string>
+    <string name="recent_documents_title">RECENT DOCUMENTS</string>
+    <string name="sample_docs_btn">📥 LOAD SAMPLE KNOWLEDGE BASE</string>
+    <string name="scope_all">All Documents</string>
+    <string name="settings_title">SYSTEM CONFIGURATION</string>
+    <string name="stats_chunks">Indexed Chunks</string>
+    <string name="stats_documents">Documents</string>
+    <string name="stats_queries">Questions Asked</string>
+    <string name="suggested_1">What is supervised learning?</string>
+    <string name="suggested_2">Summarize the key findings and methodology.</string>
+    <string name="suggested_3">What are the main neural network architectures?</string>
+    <string name="suggested_4">Explain cloud computing deployment models.</string>
+    <string name="suggested_5">What conclusions are presented across the notes?</string>
+    <string name="suggested_title">TRY ASKING</string>
+    <string name="view_all">View All</string>
+    <style name="Theme.Mod3case1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryVariant">@color/bright_purple</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/cyan_accent</item>
+        <item name="colorSecondaryVariant">@color/cyan_dark</item>
+        <item name="colorOnSecondary">@color/bg_dark</item>
+        
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+    </style>
+</resources>

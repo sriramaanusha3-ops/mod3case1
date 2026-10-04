@@ -1,0 +1,10 @@
+--- Page 1 ---
+Machine Learning is a subset of artificial intelligence where statistical models learn patterns and relationships directly from data without being explicitly programmed with deterministic if-else rules.
+--- Page 2 ---
+The three foundational paradigms of Machine Learning are:
+1. Supervised Learning: The algorithm is trained on a labeled dataset consisting of input features and ground-truth targets. The goal is to learn a mapping function f(x) -> y. Tasks include classification (predicting discrete class labels) and regression (predicting continuous numerical quantities). Algorithms include Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests, and Gradient Boosting.
+--- Page 3 ---
+2. Unsupervised Learning: The algorithm discovers latent structures, clusters, or probability distributions in unlabeled data. Tasks include clustering (K-Means, DBSCAN, Hierarchical Clustering) and dimensionality reduction (Principal Component Analysis - PCA, t-SNE, UMAP).
+3. Reinforcement Learning: An autonomous agent learns optimal behavioral policies through sequential interactions with an environment, maximizing cumulative scalar reward signals via algorithms such as Q-Learning and Policy Gradients.
+--- Page 4 ---
+Model optimization relies on gradient descent techniques to minimize empirical loss functions (Mean Squared Error, Cross-Entropy Loss). Overfitting is mitigated through L1/L2 regularization, cross-validation, and dropout techniques.
